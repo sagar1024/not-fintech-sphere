@@ -1,1 +1,1 @@
-Readme.md file to be updated.
+FintechSphere is financial market predictor and news analyzer.
